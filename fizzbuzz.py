@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-def fizzbuzz(n):
+def fizzbuzz(1, n + 1):
     for i in range(n):
         if i % 15 == 0:
             print "fizzbuzz"
